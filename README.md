@@ -11,7 +11,7 @@ Ecommerce)](https://buy.worldtradex.com/) - 🌱 I’m currently learning
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/pranay-yeshaiah-830330119/"
+    href="https://www.linkedin.com/in/pranay-yeshaiah-830330119/"
     target="blank"
     ><img
       align="center"
